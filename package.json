@@ -1,0 +1,30 @@
+{
+  "name": "weather-app-component",
+  "version": "1.0.0",
+  "description": "Weather App Component for React js Applications",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryakantsharma-coder/weather-app-react-component.git"
+  },
+  "keywords": [
+    "weather",
+    "app",
+    "componet",
+    "for",
+    "react"
+  ],
+  "author": "Surya Kant Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryakantsharma-coder/weather-app-react-component/issues"
+  },
+  "homepage": "https://github.com/suryakantsharma-coder/weather-app-react-component#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
